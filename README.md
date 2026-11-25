@@ -1,4 +1,4 @@
-# Programacao para web
+# Programação para web
 
 - **Autor (a):** Sarah Oliveira Lucas Diógenes
 
