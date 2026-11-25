@@ -1,10 +1,10 @@
-from flask import Flask, jsonify
+from flask import Flask
 
 app = Flask(__name__)
 
 
-@app.route("/", methods=["GET"])
-def home():
-    return jsonify({
+@app.get("/")
+def inicio():
+    return {
         "mensagem": "API de chamados em funcionamento"
-    }), 200
+    }
