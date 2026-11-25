@@ -1,8 +1,6 @@
 # Programacao para web
 
-- **Discente:** Sarah Oliveira Lucas Diógenes
-- **Disciplina:** Programação para Web
-- **Atividade:** Semana 01 — Criando a primeira API com Flask
+- **Autor (a):** Sarah Oliveira Lucas Diógenes
 
 ## Objetivo do projeto
 
